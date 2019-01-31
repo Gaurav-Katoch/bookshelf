@@ -67,7 +67,7 @@ Index                | Title
 47     | [Foundations of Machine Learning, second edition.pdf](/Machine%20Leraning/Foundations%20of%20Machine%20Learning%2C%20second%20edition.pdf)
 48     | [Machine Learning in Action.pdf](/Machine%20Leraning/Machine%20Learning%20in%20Action.pdf)
 49     | [Mastering Machine Learning with Python in Six Steps.pdf](/Machine%20Leraning/Mastering%20Machine%20Learning%20with%20Python%20in%20Six%20Steps.pdf)
-
+50     | [Machine Learning in Python Essential Techniques for Predictive Analysis.pdf](/Machine%20Leraning/Machine%20Learning%20in%20Python%20Essential%20Techniques%20for%20Predictive%20Analysis.pdf)
 
 ### Computer Science
 
