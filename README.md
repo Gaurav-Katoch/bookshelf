@@ -64,7 +64,9 @@ Index                | Title
 44     | [Causal Inference.pdf](/Machine%20Leraning/Causal%20Inference.pdf)
 45     | [Information Theory, Inference, and Learning Algorithms.pdf](/Machine%20Leraning/Information%20Theory%2C%20Inference%2C%20and%20Learning%20Algorithms.pdf)
 46     | [foundations of machine learning.pdf](/Machine%20Leraning/foundations%20of%20machine%20learning.pdf)
-47     | [Machine Learning in Action.pdf](/Machine%20Leraning/Machine%20Learning%20in%20Action.pdf)
+47     | [Foundations of Machine Learning, second edition.pdf](/Machine%20Leraning/Foundations%20of%20Machine%20Learning%2C%20second%20edition.pdf)
+48     | [Machine Learning in Action.pdf](/Machine%20Leraning/Machine%20Learning%20in%20Action.pdf)
+49     | [Mastering Machine Learning with Python in Six Steps.pdf](/Machine%20Leraning/Mastering%20Machine%20Learning%20with%20Python%20in%20Six%20Steps.pdf)
 
 
 ### Computer Science
