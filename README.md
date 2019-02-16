@@ -77,7 +77,7 @@ Index                | Title
 57     | [Automate The Boring Stuff With Python.pdf](/Machine%20Leraning/automate%20the%20boring%20stuff%20with%20python.pdf)
 58     | [Artificial Intelligence A Modern Approach, Third Edition.pdf](/Machine%20Leraning/Artificial%20Intelligence%20A%20Modern%20Approach%2C%20Third%20Edition.pdf)
 59     | [Introduction to Time Series Analysis and Forecasting.pdf](/Machine%20Leraning/Introduction%20to%20Time%20Series%20Analysis%20and%20Forecasting.pdf)
-60     | [Machine Learning_ An Algorithmic Perspective 2nd ed.pdf](/Machine%20Leraning/Machine%20Learning_%20An%20Algorithmic%20Perspective%20(2nd%20ed.)%20%5BMarsland%202014-10-08%5D.pdf)
+60     | [Machine Learning_An Algorithmic Perspective, 2nd ed.pdf](/Machine%20Leraning/Machine%20Learning_%20An%20Algorithmic%20Perspective%20(2nd%20ed.)%20%5BMarsland%202014-10-08%5D.pdf)
 
 ### Computer Science
 
