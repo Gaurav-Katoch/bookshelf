@@ -68,6 +68,13 @@ Index                | Title
 48     | [Machine Learning in Action.pdf](/Machine%20Leraning/Machine%20Learning%20in%20Action.pdf)
 49     | [Mastering Machine Learning with Python in Six Steps.pdf](/Machine%20Leraning/Mastering%20Machine%20Learning%20with%20Python%20in%20Six%20Steps.pdf)
 50     | [Machine Learning in Python Essential Techniques for Predictive Analysis.pdf](/Machine%20Leraning/Machine%20Learning%20in%20Python%20Essential%20Techniques%20for%20Predictive%20Analysis.pdf)
+51     | [Neural Networks and Deep Learning.pdf](/Machine%20Leraning/Neural%20Networks%20and%20Deep%20Learning.pdf)
+52     | [Python Data Science Handbook.pdf](/Machine%20Leraning/Python%20Data%20Science%20Handbook.pdf)
+53     | [Social Media Mining: An Introduction.pdf](/Machine%20Leraning/Social%20Media%20Mining%20An%20Introduction.pdf)
+54     | [Statistical Learning with Sparsity The Lasso and Generalizations.pdf](/Machine%20Leraning/Statistical%20Learning%20with%20Sparsity%20The%20Lasso%20and%20Generalizations.pdf)
+55     | [Statistical inference for data science.pdf](/Machine%20Leraning/Statistical%20inference%20for%20data%20science.pdf)
+56     | [Think Bayes.pdf](/Machine%20Leraning/Think%20Bayes.pdf)
+57     | [Automate The Boring Stuff With Python.pdf](/Machine%20Leraning/automate%20the%20boring%20stuff%20with%20python.pdf)
 
 ### Computer Science
 
