@@ -78,6 +78,8 @@ Index                | Title
 58     | [Artificial Intelligence A Modern Approach, Third Edition.pdf](/Machine%20Leraning/Artificial%20Intelligence%20A%20Modern%20Approach%2C%20Third%20Edition.pdf)
 59     | [Introduction to Time Series Analysis and Forecasting.pdf](/Machine%20Leraning/Introduction%20to%20Time%20Series%20Analysis%20and%20Forecasting.pdf)
 60     | [Machine Learning An Algorithmic Perspective, 2nd ed.pdf](/Machine%20Leraning/Machine%20Learning_%20An%20Algorithmic%20Perspective%20(2nd%20ed.)%20%5BMarsland%202014-10-08%5D.pdf)
+61     | [Natural Language Processing with Python.pdf](/Machine%20Leraning/Natural%20Language%20Processing%20with%20Python.pdf)
+62     | [Natural_Language_Processing_with_PyTorch.pdf](/Machine%20Leraning/Natural_Language_Processing_with_PyTorch.pdf)
 
 ### Computer Science
 
