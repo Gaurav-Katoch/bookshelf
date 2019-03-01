@@ -83,6 +83,10 @@ Index                | Title
 63     | [Data Science for Business - Foster Provost & Tom Fawcett.pdf](/Machine%20Leraning/Data%20Science%20for%20Business%20-%20Foster%20Provost%20%26%20Tom%20Fawcett.pdf)
 64     | [Encyclopedia-of-distances-2009.pdf](/Machine%20Leraning/Encyclopedia-of-distances-2009.pdf)
 65     | [The Hundred-Page Machine Learning Book.pdf](/Machine%20Leraning/The%20Hundred-Page%20Machine%20Learning%20Book.pdf)
+66     | [Storytelling-with-data-cole-nussbaumer-knaflic.pdf](/Machine%20Leraning/storytelling-with-data-cole-nussbaumer-knaflic.pdf)
+67     | [Optimization_ Algorithms and Applications [Arora 2015-05-21].pdf](/Machine%20Leraning/Optimization_%20Algorithms%20and%20Applications%20%5BArora%202015-05-21%5D.pdf)
+68     | [Machine Learning Hands-On for Developers and Technical Professionals [Bell 2014-11-03].pdf](/Machine%20Leraning/Machine%20Learning%20Hands-On%20for%20Developers%20and%20Technical%20Professionals%20%5BBell%202014-11-03%5D.pdf)
+69     | [Global Optimization Algorithms – Theory and Application.pdf](/Machine%20Leraning/Global%20Optimization%20Algorithms%20%E2%80%93%20Theory%20and%20Application.pdf)
 
 ### Computer Science
 
