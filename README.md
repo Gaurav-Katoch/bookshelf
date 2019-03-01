@@ -80,6 +80,9 @@ Index                | Title
 60     | [Machine Learning An Algorithmic Perspective, 2nd ed.pdf](/Machine%20Leraning/Machine%20Learning_%20An%20Algorithmic%20Perspective%20(2nd%20ed.)%20%5BMarsland%202014-10-08%5D.pdf)
 61     | [Natural Language Processing with Python.pdf](/Machine%20Leraning/Natural%20Language%20Processing%20with%20Python.pdf)
 62     | [Natural_Language_Processing_with_PyTorch.pdf](/Machine%20Leraning/Natural_Language_Processing_with_PyTorch.pdf)
+63     | [Data Science for Business - Foster Provost & Tom Fawcett.pdf](/Machine%20Leraning/Data%20Science%20for%20Business%20-%20Foster%20Provost%20%26%20Tom%20Fawcett.pdf)
+64     | [Encyclopedia-of-distances-2009.pdf](/Machine%20Leraning/Encyclopedia-of-distances-2009.pdf)
+65     | [The Hundred-Page Machine Learning Book.pdf](/Machine%20Leraning/The%20Hundred-Page%20Machine%20Learning%20Book.pdf)
 
 ### Computer Science
 
