@@ -242,6 +242,7 @@ Index                | Title
 40               | [Introduction to Probability, Charles M. Grinstead & J. Laurie Snell.pdf](/Math/Introduction%20to%20Probability%2C%20Charles%20M.%20Grinstead%20%26%20J.%20Laurie%20Snell.pdf)
 41               | [概率论基础教程_(美)Sheldon.M.Ross.pdf](/Math/%E6%A6%82%E7%8E%87%E8%AE%BA%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B_(%E7%BE%8E)Sheldon.M.Ross.pdf)
 42               | [A FIRST COURSE IN PROBABILITY.pdf](/Math/A%20FIRST%20COURSE%20IN%20PROBABILITY.pdf)
+43               | [Introduction to Statistics, David M. Lane.pdf](/Math/Introduction%20to%20Statistics%2C%20David%20M.%20Lane.pdf)
 
 
 ### Other Resources
