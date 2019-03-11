@@ -251,6 +251,7 @@ Index                | Title
 41               | [概率论基础教程_(美)Sheldon.M.Ross.pdf](/Math/%E6%A6%82%E7%8E%87%E8%AE%BA%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B_(%E7%BE%8E)Sheldon.M.Ross.pdf)
 42               | [A FIRST COURSE IN PROBABILITY.pdf](/Math/A%20FIRST%20COURSE%20IN%20PROBABILITY.pdf)
 43               | [Introduction to Statistics, David M. Lane.pdf](/Math/Introduction%20to%20Statistics%2C%20David%20M.%20Lane.pdf)
+44               | [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares.pdf](/Math/Introduction%20to%20Applied%20Linear%20Algebra%20%E2%80%93%20Vectors%2C%20Matrices%2C%20and%20Least%20Squares.pdf)
 
 
 ### Other Resources
