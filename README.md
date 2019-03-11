@@ -265,3 +265,5 @@ Index                | Title
 6               | [latexshort-cn.pdf](https://github.com/hktxt/bookshelf/blob/master/Other%20Resources/latexshort-cn.pdf)
 7               | [图像处理、分析与机器视觉（第三版）.pdf](/Other%20Resources/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E3%80%81%E5%88%86%E6%9E%90%E4%B8%8E%E6%9C%BA%E5%99%A8%E8%A7%86%E8%A7%89%EF%BC%88%E7%AC%AC%E4%B8%89%E7%89%88%EF%BC%89.pdf)
 8               | [艾格纳-齐格勒 - 数学天书中的证明(第三版).pdf](/Other%20Resources/%E8%89%BE%E6%A0%BC%E7%BA%B3-%E9%BD%90%E6%A0%BC%E5%8B%92%20-%20%E6%95%B0%E5%AD%A6%E5%A4%A9%E4%B9%A6%E4%B8%AD%E7%9A%84%E8%AF%81%E6%98%8E(%E7%AC%AC%E4%B8%89%E7%89%88).pdf)
+9               | [Foundations of Signal Processing.pdf](/Other%20Resources/Foundations%20of%20Signal%20Processing.pdf)
+10               | [Signal processing for communications.pdf](/Other%20Resources/Signal%20processing%20for%20communications.pdf)
