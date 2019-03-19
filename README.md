@@ -88,6 +88,8 @@ Index                | Title
 68     | [Machine Learning Hands-On for Developers and Technical Professionals [Bell 2014-11-03].pdf](/Machine%20Leraning/Machine%20Learning%20Hands-On%20for%20Developers%20and%20Technical%20Professionals%20%5BBell%202014-11-03%5D.pdf)
 69     | [Global Optimization Algorithms – Theory and Application.pdf](/Machine%20Leraning/Global%20Optimization%20Algorithms%20%E2%80%93%20Theory%20and%20Application.pdf)
 70     | [Python数据科学手册.pdf](/Machine%20Leraning/Python%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E6%89%8B%E5%86%8C.pdf)
+71     | [Discriminant Analysis and Statistical Pattern Recognition.pdf](/Machine%20Leraning/Discriminant%20Analysis%20and%20Statistical%20Pattern%20Recognition.pdf)
+
 
 ### Computer Science
 
