@@ -24,7 +24,7 @@ Index                | Title
 4     | [Hands-On+Reinforcement+Learning+Sudharsan+Ravichandiran.pdf](/Machine%20Leraning/Hands-On%2BReinforcement%2BLearning%2B-%2BSudharsan%2BRavichandiran.pdf)
 5     | [Deep Learning.pdf](/Machine%20Leraning/Deep%20Learning.pdf)
 6     | [Deep Learning_cn.pdf](/Machine%20Leraning/Deep%20Learning_cn.pdf)
-7     | [Designing.Data-Intensive.Applications.pdf](#Designing.Data-Intensive.Applications.pdf)
+7     | [Designing.Data-Intensive.Applications.pdf](/Machine%20Leraning/Designing.Data-Intensive.Applications.pdf)
 8     | [MLAPP original.pdf](/Machine%20Leraning/MLAPP%20original.pdf)
 9     | [Machine Learning A Probabilistic Perspective.pdf](/Machine%20Leraning/Machine%20Learning%20A%20Probabilistic%20Perspective.pdf)
 10     | [Machine Learning for the Web.pdf](/Machine%20Leraning/Machine%20Learning%20for%20the%20Web.pdf)
