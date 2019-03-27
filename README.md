@@ -93,6 +93,7 @@ Index                | Title
 73     | [Mining of Massive Datasets.pdf](/Machine%20Leraning/Mining%20of%20Massive%20Datasets.pdf)
 74     | [Think Stats, 2nd version.pdf](/Machine%20Leraning/Think%20Stats%2C%202nd%20version.pdf)
 75     | [Understanding-machine-learning-theory-algorithms.pdf](/Machine%20Leraning/Understanding-machine-learning-theory-algorithms.pdf)
+76     | [Feature_Engineering_for_Machine_Learning.pdf](/Machine%20Leraning/Feature_Engineering_for_Machine_Learning.pdf)
 
 
 ### Computer Science
