@@ -279,3 +279,4 @@ Index                | Title
 12               | [Multiple View Geometry in Computer Vision (Second Edition).pdf](/Other%20Resources/Multiple%20View%20Geometry%20in%20Computer%20Vision%20(Second%20Edition).pdf)
 13               | [学习opencv.pdf](/Other%20Resources/%E5%AD%A6%E4%B9%A0opencv.pdf)
 14               | [Computer Vision- Algorithms and Applications.pdf](/Other%20Resources/Computer%20Vision-%20Algorithms%20and%20Applications.pdf)
+15               | [OpenCV 2 计算机视觉编程手册.pdf](/Other%20Resources/OpenCV%202%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E7%BC%96%E7%A8%8B%E6%89%8B%E5%86%8C.pdf)
