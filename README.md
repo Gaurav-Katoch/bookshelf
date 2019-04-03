@@ -209,7 +209,16 @@ Index                | Title
 107                 | [Computer Vision－Principles,Algorithms,Applications,Learning,5ed.pdf](/Computer%20Science/Computer%20Vision%EF%BC%8DPrinciples%2CAlgorithms%2CApplications%2CLearning%2C5ed.pdf)
 108                 | [Algorithms, Jeff Erickson.pdf](/Computer%20Science/Algorithms%2C%20Jeff%20Erickson.pdf)
 109                 | [Linux 就该这么学.pdf](/Computer%20Science/LinuxProbe.pdf)
-
+110                 | [Multiple View Geometry in Computer Vision (Second Edition).pdf](/Computer%20Science/Multiple%20View%20Geometry%20in%20Computer%20Vision%20(Second%20Edition).pdf)
+111                 | [OpenCV 2 计算机视觉编程手册.pdf](/Computer%20Science/OpenCV%202%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E7%BC%96%E7%A8%8B%E6%89%8B%E5%86%8C.pdf)
+112                 | [Python学习手册(第4版).pdf](/Computer%20Science/Python%E5%AD%A6%E4%B9%A0%E6%89%8B%E5%86%8C(%E7%AC%AC4%E7%89%88).pdf)
+113                 | [Python核心编程第三版.pdf](/Computer%20Science/Python%E6%A0%B8%E5%BF%83%E7%BC%96%E7%A8%8B%E7%AC%AC%E4%B8%89%E7%89%88.pdf)
+114                 | [Python简明教程.pdf](/Computer%20Science/Python%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B.pdf)
+115                 | [python计算机视觉.pdf](/Computer%20Science/python%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89.pdf)
+116                 | [图像处理、分析与机器视觉（第三版）.pdf](/Computer%20Science/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E3%80%81%E5%88%86%E6%9E%90%E4%B8%8E%E6%9C%BA%E5%99%A8%E8%A7%86%E8%A7%89%EF%BC%88%E7%AC%AC%E4%B8%89%E7%89%88%EF%BC%89.pdf)
+117                 | [学习opencv.pdf](/Computer%20Science/%E5%AD%A6%E4%B9%A0opencv.pdf)
+118                 | [用Python写网络爬虫.pdf](/Computer%20Science/%E7%94%A8Python%E5%86%99%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB.pdf)
+119                 | [Computer Vision- Algorithms and Applications.pdf](/Computer%20Science/Computer%20Vision-%20Algorithms%20and%20Applications.pdf)
 
 ### Math
 
@@ -271,12 +280,6 @@ Index                | Title
 4               | [LaTeX Beginner's Guide.pdf](/Other%20Resources/LaTeX%20Beginner's%20Guide.pdf)
 5               | [Word.Power.Made.Easy.[Norman.Lewis].scanned and bookmarked.pdf](/Other%20Resources/Word.Power.Made.Easy.%5BNorman.Lewis%5D.scanned%20and%20bookmarked.pdf)
 6               | [latexshort-cn.pdf](https://github.com/hktxt/bookshelf/blob/master/Other%20Resources/latexshort-cn.pdf)
-7               | [图像处理、分析与机器视觉（第三版）.pdf](/Other%20Resources/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E3%80%81%E5%88%86%E6%9E%90%E4%B8%8E%E6%9C%BA%E5%99%A8%E8%A7%86%E8%A7%89%EF%BC%88%E7%AC%AC%E4%B8%89%E7%89%88%EF%BC%89.pdf)
-8               | [艾格纳-齐格勒 - 数学天书中的证明(第三版).pdf](/Other%20Resources/%E8%89%BE%E6%A0%BC%E7%BA%B3-%E9%BD%90%E6%A0%BC%E5%8B%92%20-%20%E6%95%B0%E5%AD%A6%E5%A4%A9%E4%B9%A6%E4%B8%AD%E7%9A%84%E8%AF%81%E6%98%8E(%E7%AC%AC%E4%B8%89%E7%89%88).pdf)
-9               | [Foundations of Signal Processing.pdf](/Other%20Resources/Foundations%20of%20Signal%20Processing.pdf)
-10               | [Signal processing for communications.pdf](/Other%20Resources/Signal%20processing%20for%20communications.pdf)
-11               | [Computer Vision:  Models, Learning, and Inference](http://www.computervisionmodels.com/)
-12               | [Multiple View Geometry in Computer Vision (Second Edition).pdf](/Other%20Resources/Multiple%20View%20Geometry%20in%20Computer%20Vision%20(Second%20Edition).pdf)
-13               | [学习opencv.pdf](/Other%20Resources/%E5%AD%A6%E4%B9%A0opencv.pdf)
-14               | [Computer Vision- Algorithms and Applications.pdf](/Other%20Resources/Computer%20Vision-%20Algorithms%20and%20Applications.pdf)
-15               | [OpenCV 2 计算机视觉编程手册.pdf](/Other%20Resources/OpenCV%202%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E7%BC%96%E7%A8%8B%E6%89%8B%E5%86%8C.pdf)
+7               | [艾格纳-齐格勒 - 数学天书中的证明(第三版).pdf](/Other%20Resources/%E8%89%BE%E6%A0%BC%E7%BA%B3-%E9%BD%90%E6%A0%BC%E5%8B%92%20-%20%E6%95%B0%E5%AD%A6%E5%A4%A9%E4%B9%A6%E4%B8%AD%E7%9A%84%E8%AF%81%E6%98%8E(%E7%AC%AC%E4%B8%89%E7%89%88).pdf)
+8               | [Foundations of Signal Processing.pdf](/Other%20Resources/Foundations%20of%20Signal%20Processing.pdf)
+9               | [Signal processing for communications.pdf](/Other%20Resources/Signal%20processing%20for%20communications.pdf)
