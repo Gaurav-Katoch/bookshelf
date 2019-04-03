@@ -93,6 +93,7 @@ Index                | Title
 73     | [Mining of Massive Datasets.pdf](/Machine%20Leraning/Mining%20of%20Massive%20Datasets.pdf)
 74     | [Think Stats, 2nd version.pdf](/Machine%20Leraning/Think%20Stats%2C%202nd%20version.pdf)
 75     | [Understanding-machine-learning-theory-algorithms.pdf](/Machine%20Leraning/Understanding-machine-learning-theory-algorithms.pdf)
+76     | [Feature_Engineering_for_Machine_Learning.pdf](/Machine%20Leraning/Feature_Engineering_for_Machine_Learning.pdf)
 
 
 ### Computer Science
@@ -274,3 +275,7 @@ Index                | Title
 8               | [艾格纳-齐格勒 - 数学天书中的证明(第三版).pdf](/Other%20Resources/%E8%89%BE%E6%A0%BC%E7%BA%B3-%E9%BD%90%E6%A0%BC%E5%8B%92%20-%20%E6%95%B0%E5%AD%A6%E5%A4%A9%E4%B9%A6%E4%B8%AD%E7%9A%84%E8%AF%81%E6%98%8E(%E7%AC%AC%E4%B8%89%E7%89%88).pdf)
 9               | [Foundations of Signal Processing.pdf](/Other%20Resources/Foundations%20of%20Signal%20Processing.pdf)
 10               | [Signal processing for communications.pdf](/Other%20Resources/Signal%20processing%20for%20communications.pdf)
+11               | [Computer Vision:  Models, Learning, and Inference](http://www.computervisionmodels.com/)
+12               | [Multiple View Geometry in Computer Vision (Second Edition).pdf](/Other%20Resources/Multiple%20View%20Geometry%20in%20Computer%20Vision%20(Second%20Edition).pdf)
+13               | [学习opencv.pdf](/Other%20Resources/%E5%AD%A6%E4%B9%A0opencv.pdf)
+14               | [Computer Vision- Algorithms and Applications.pdf](/Other%20Resources/Computer%20Vision-%20Algorithms%20and%20Applications.pdf)
