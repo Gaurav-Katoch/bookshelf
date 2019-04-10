@@ -95,6 +95,7 @@ Index                | Title
 75     | [Understanding-machine-learning-theory-algorithms.pdf](/Machine%20Leraning/Understanding-machine-learning-theory-algorithms.pdf)
 76     | [Feature_Engineering_for_Machine_Learning.pdf](/Machine%20Leraning/Feature_Engineering_for_Machine_Learning.pdf)
 77     | [Practical Recommender Systems.pdf](/Machine%20Leraning/Practical%2BRecommender%2BSystems.pdf)
+78     | [The Visual Display of Quantitative Information - Edward Tufte.pdf](/Machine%20Leraning/The%20Visual%20Display%20of%20Quantitative%20Information%20-%20Edward%20Tufte.pdf)
 
 
 ### Computer Science
