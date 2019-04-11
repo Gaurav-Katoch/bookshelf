@@ -89,7 +89,7 @@ Index                | Title
 69     | [Global Optimization Algorithms – Theory and Application.pdf](/Machine%20Leraning/Global%20Optimization%20Algorithms%20%E2%80%93%20Theory%20and%20Application.pdf)
 70     | [Python数据科学手册.pdf](/Machine%20Leraning/Python%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E6%89%8B%E5%86%8C.pdf)
 71     | [Discriminant Analysis and Statistical Pattern Recognition.pdf](/Machine%20Leraning/Discriminant%20Analysis%20and%20Statistical%20Pattern%20Recognition.pdf)
-72     | [Foundations of Data Science.pdf](/Machine%20Leraning/Foundations%20of%20Data%20Science.pdf)
+72     | [Hands-On Machine Learning with Scikit-Learn and TensorFlow.pdf](/Machine%20Leraning/Hands-On%20Machine%20Learning%20with%20Scikit-Learn%20and%20TensorFlow.pdf)
 73     | [Mining of Massive Datasets.pdf](/Machine%20Leraning/Mining%20of%20Massive%20Datasets.pdf)
 74     | [Think Stats, 2nd version.pdf](/Machine%20Leraning/Think%20Stats%2C%202nd%20version.pdf)
 75     | [Understanding-machine-learning-theory-algorithms.pdf](/Machine%20Leraning/Understanding-machine-learning-theory-algorithms.pdf)
