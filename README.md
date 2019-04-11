@@ -96,6 +96,8 @@ Index                | Title
 76     | [Feature_Engineering_for_Machine_Learning.pdf](/Machine%20Leraning/Feature_Engineering_for_Machine_Learning.pdf)
 77     | [Practical Recommender Systems.pdf](/Machine%20Leraning/Practical%2BRecommender%2BSystems.pdf)
 78     | [The Visual Display of Quantitative Information - Edward Tufte.pdf](/Machine%20Leraning/The%20Visual%20Display%20of%20Quantitative%20Information%20-%20Edward%20Tufte.pdf)
+79     | [Deep Learning with Keras.pdf](/Machine%20Leraning/Deep%20Learning%20with%20Keras.pdf)
+80     | [Deep Learning with Python, François Chollet.pdf](/Machine%20Leraning/Deep%20Learning%20with%20Python%2C%20Fran%C3%A7ois%20Chollet.pdf)
 
 
 ### Computer Science
@@ -177,7 +179,7 @@ Index                | Title
 73                 | [Unity 5.x Shaders and Effects Cookbook.pdf](/Computer%20Science/Unity%205.x%20Shaders%20and%20Effects%20Cookbook.pdf)
 74                 | [Python GUI Programming Cookbook Second Edition.pdf](/Computer%20Science/Python%20GUI%20Programming%20Cookbook%20Second%20Edition.pdf)
 75                 | [Mastering Embedded Linux Programming, Second Edition.pdf](/Computer%20Science/Mastering%20Embedded%20Linux%20Programming%2C%20Second%20Edition.pdf)
-76                 | [Deep Learning with Python, François Chollet.pdf](/Computer%20Science/Deep%20Learning%20with%20Python%2C%20Fran%C3%A7ois%20Chollet.pdf)
+76                 | [Introduction to Algorithms - 3rd Edition.pdf](/Computer%20Science/Introduction%20to%20Algorithms%20-%203rd%20Edition.pdf)
 77                 | [Python Data Structures and Algorithms.pdf](/Computer%20Science/Python%20Data%20Structures%20and%20Algorithms.pdf)
 78                 | [Mastering Python Networking.pdf](/Computer%20Science/Mastering%20Python%20Networking.pdf)
 79                 | [Expert Delphi.pdf](/Computer%20Science/Expert%20Delphi.pdf)
