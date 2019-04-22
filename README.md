@@ -102,6 +102,7 @@ Index                | Title
 82     | [Python code for Artificial Intelligence Foundations of Computational Agents.pdf](/Machine%20Leraning/Python%20code%20for%20Artificial%20Intelligence%20Foundations%20of%20Computational%20Agents.pdf)
 83     | [The Master Algorithm - How the Quest for the Ultimate Learning Machine Will Remake Our World 2015.pdf](/Machine%20Leraning/The%20Master%20Algorithm%20-%20How%20the%20Quest%20for%20the%20Ultimate%20Learning%20Machine%20Will%20Remake%20Our%20World%202015.pdf)
 84     | [Multivariate_data_analysis_7th_revised.pdf](/Machine%20Leraning/Multivariate_data_analysis_7th_revised.pdf)
+85     | [推荐系统实践.pdf](/Machine%20Leraning/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E5%AE%9E%E8%B7%B5.pdf)
 
 
 ### Computer Science
