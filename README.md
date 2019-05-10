@@ -2,7 +2,7 @@
 ========================================================
 
 
-[![AUR](https://img.shields.io/aur/license/yaourt.svg)](https://github.com/hktxt/bookshelf/blob/master/LICENSE)
+[![AUR](https://img.shields.io/apm/l/vim-mode.svg)](https://github.com/hktxt/bookshelf/blob/master/LICENSE)
 
 
 <!-- vim-markdown-toc GFM -->
