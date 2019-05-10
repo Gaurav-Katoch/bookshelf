@@ -228,6 +228,9 @@ Index                | Title
 117                 | [学习opencv.pdf](/Computer%20Science/%E5%AD%A6%E4%B9%A0opencv.pdf)
 118                 | [用Python写网络爬虫.pdf](/Computer%20Science/%E7%94%A8Python%E5%86%99%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB.pdf)
 119                 | [Computer Vision- Algorithms and Applications.pdf](/Computer%20Science/Computer%20Vision-%20Algorithms%20and%20Applications.pdf)
+120                 | [Learning OpenCV 3.pdf](/Computer%20Science/Learning%20OpenCV%203.pdf)
+121                 | [Learning OpenCV.pdf](/Computer%20Science/Learning%20OpenCV.pdf)
+122                 | [Learning_OpenCV_3_Computer_Vision_with_Python_2nd_Edition.pdf](/Computer%20Science/Learning_OpenCV_3_Computer_Vision_with_Python_2nd_Edition.pdf)
 
 ### Math
 
